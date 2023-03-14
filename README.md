@@ -10,11 +10,10 @@
 - Languages: Crystal, Ruby, (modern) Java
 - Virtualization: WebAssembly
 - Shell: Fish, Nushell
-- CLI tool development
 
 ### Contact
 - You can reach me at primers.flowing-0q@icloud.com 
-- [Or via LinkedIn](https://www.linkedin.com/in/rafaelrevi/)
+- Or via [LinkedIn](https://www.linkedin.com/in/rafaelrevi/)
 
 <!---
 rrevi/rrevi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
