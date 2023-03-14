@@ -1,12 +1,16 @@
 ### About
 - Hi, I’m @rrevi
 - I'm a Principal Applications Engineer at [@oracle](https://github.com/oracle)
-- More specifically, I'm a Full-stack Web appplication developer
 - I find joy in piecing together a solution that is both functional and performant
 
 ### Interests
+- Full-stack Web appplication development
 - Front-end: Preact, though I prefer server-side rendering (e.g. [Hotwire](https://hotwired.dev/))
-- Back-end: Ruby, Ruby on Rails, Crystal, WebAssembly, Helidon
+- Back-end: Ruby on Rails, Helidon
+- Languages: Crystal, Ruby, (modern) Java
+- Virtualization: WebAssembly
+- Shell: Fish, Nushell
+- CLI tool development
 
 ### Contact
 - You can reach me at primers.flowing-0q@icloud.com 
