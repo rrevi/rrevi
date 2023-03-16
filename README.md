@@ -7,7 +7,7 @@
 - Full-stack Web appplication development
 - Front-end: Preact, though I prefer server-side rendering (e.g. [Hotwire](https://hotwired.dev/))
 - Back-end: Ruby on Rails, Helidon
-- Languages: Crystal, Ruby, (modern) Java
+- Languages: Crystal, (modern) Java, Ruby, TruffleRuby (and the GraalVM)
 - Virtualization: WebAssembly
 - Shell: Fish, Nushell
 
