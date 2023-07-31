@@ -10,7 +10,7 @@
 - Virtualization: WebAssembly
 - Shell: Fish, Nushell
 - Concurrency: I have an obsession with performance by using all CPU cores (when possible), e.g. [The Silver Searcher](https://github.com/ggreer/the_silver_searcher#how-is-it-so-fast), [Parallel Testing in Ruby on Rails](https://guides.rubyonrails.org/testing.html#parallel-testing), [Nushell Parallelism support](https://www.nushell.sh/book/parallelism.html), [Helidon Nima - Helidon on Java Virtual Threads](https://medium.com/helidon/helidon-níma-helidon-on-virtual-threads-130bb2ea2088), etc.
-- Learning: Crystal, Rust, TruffleRuby (and the GraalVM)
+- Learning: Crystal, Rust, TruffleRuby (and the GraalVM), WebAssembly ([WASI](https://github.com/WebAssembly/WASI))
 
 ### Contact
 - You can reach me at primers.flowing-0q@icloud.com 
