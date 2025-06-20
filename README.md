@@ -13,8 +13,7 @@
 - Learning: Crystal, Rust, TruffleRuby (and the GraalVM), WebAssembly ([WASI](https://github.com/WebAssembly/WASI)), [SQLite on Rails](https://fractaledmind.github.io/2023/12/23/rubyconftw/) ([also on Fly](https://fly.io/ruby-dispatch/sqlite-and-rails-in-production/))
 
 ### Contact
-- You can reach me at primers.flowing-0q@icloud.com 
-- Or via [LinkedIn](https://www.linkedin.com/in/rafaelrevi/)
+- You can reach me at primers.flowing-0q@icloud.com
 
 <!---
 rrevi/rrevi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
